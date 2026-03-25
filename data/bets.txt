@@ -1,0 +1,105 @@
+BET,Soccer,Osasuna - Elche,2027-03-04T11:42:18.345921,12345678Z,Osasuna win,2.50,150.00
+BET,Soccer,Barcelona - Real Madrid,2027-03-07T18:09:54.883214,23456789D,Barcelona win,1.85,200.00
+BET,Soccer,Valencia - Sevilla,2027-03-10T09:31:22.118734,34567890V,Draw,2.10,75.00
+BET,Soccer,Real Sociedad - Betis,2027-03-12T20:55:01.993201,45678901G,Over 2.5 goals,1.95,120.00
+BET,Soccer,Villarreal - Getafe,2027-03-15T14:06:47.556302,56789012B,Villarreal win,1.70,90.00
+BET,Soccer,Atletico Madrid - Granada,2027-03-18T19:28:33.409811,X1234567L,Atletico Madrid win,1.40,250.00
+BET,Soccer,Celta Vigo - Alaves,2027-03-21T10:44:59.672144,Y2345678Z,Both teams score,2.30,60.00
+BET,Soccer,Mallorca - Cadiz,2027-03-24T16:17:08.884512,Z3456789D,Under 2.5 goals,2.05,80.00
+BET,Soccer,Girona - Las Palmas,2027-03-27T21:02:41.990032,X4567890K,Girona win,1.90,110.00
+BET,Soccer,Athletic Bilbao - Rayo Vallecano,2027-03-30T12:36:55.128944,Y5678901P,Athletic Bilbao win,1.75,130.00
+BET,Basketball,Real Madrid - Barcelona,2027-04-02T18:15:27.552110,12345678Z,Real Madrid win,1.80,140.00
+BET,Basketball,Valencia Basket - Unicaja,2027-04-05T20:41:03.001248,23456789D,Over 160.5 points,1.95,100.00
+BET,Basketball,Joventut - Baskonia,2027-04-08T11:09:36.908774,34567890V,Baskonia win,2.20,85.00
+BET,Basketball,Gran Canaria - Murcia,2027-04-11T17:54:22.662390,45678901G,Gran Canaria win,1.65,160.00
+BET,Basketball,Manresa - Zaragoza,2027-04-14T13:26:48.443109,56789012B,Manresa win,1.90,70.00
+BET,Basketball,Tenerife - Obradoiro,2027-04-17T19:38:59.777003,X1234567L,Tenerife win,1.55,180.00
+BET,Basketball,Breogan - Andorra,2027-04-20T10:51:14.118900,Y2345678Z,Under 158.5 points,2.05,95.00
+BET,Basketball,Estudiantes - Fuenlabrada,2027-04-23T21:03:41.556012,Z3456789D,Estudiantes win,1.75,125.00
+BET,Basketball,Barcelona - Baskonia,2027-04-26T16:29:07.990122,X4567890K,Barcelona win,1.60,210.00
+BET,Basketball,Valencia Basket - Real Madrid,2027-04-29T18:44:53.337701,Y5678901P,Real Madrid -5.5 handicap,2.30,90.00
+BET,Tennis,Carlos Alcaraz - Roberto Bautista,2027-05-02T12:18:36.209841,12345678Z,Alcaraz win,1.35,300.00
+BET,Tennis,Paula Badosa - Sara Sorribes,2027-05-05T15:59:22.883440,23456789D,Badosa win,1.70,140.00
+BET,Tennis,Albert Ramos - Jaume Munar,2027-05-08T10:07:11.332908,34567890V,Over 22.5 games,1.95,85.00
+BET,Tennis,Alejandro Davidovich - Pedro Martinez,2027-05-11T19:42:55.441119,45678901G,Davidovich win,1.80,120.00
+BET,Tennis,Cristina Bucsa - Marina Bassols,2027-05-14T13:34:29.777201,56789012B,Bassols win,2.10,65.00
+BET,Tennis,Feliciano Lopez - Fernando Verdasco,2027-05-17T20:18:03.662900,X1234567L,Over 3 sets,2.40,50.00
+BET,Tennis,Carlos Alcaraz - Pablo Carreno,2027-05-20T11:51:44.118233,Y2345678Z,Alcaraz 2-0 sets,1.45,220.00
+BET,Tennis,Roberto Carballes - Bernabe Zapata,2027-05-23T16:06:59.908441,Z3456789D,Carballes win,1.85,95.00
+BET,Tennis,Nuria Parrizas - Rebeka Masarova,2027-05-26T21:37:12.550018,X4567890K,Over 21.5 games,2.00,75.00
+BET,Tennis,Jaume Munar - Pedro Martinez,2027-05-29T14:28:35.441902,Y5678901P,Munar win,1.90,110.00
+BET,Soccer,Real Madrid - Valencia,2027-06-01T18:09:58.220091,12345678Z,Real Madrid win,1.50,260.00
+BET,Soccer,Sevilla - Betis,2027-06-04T20:47:14.990118,23456789D,Draw,2.60,90.00
+BET,Soccer,Barcelona - Girona,2027-06-07T12:31:06.441003,34567890V,Barcelona win,1.65,180.00
+BET,Soccer,Almeria - Granada,2027-06-10T16:52:44.773120,45678901G,Over 2.5 goals,2.20,70.00
+BET,Soccer,Getafe - Rayo Vallecano,2027-06-13T19:08:29.883741,56789012B,Under 2.5 goals,1.95,85.00
+BET,Soccer,Athletic Bilbao - Osasuna,2027-06-16T11:43:57.118002,X1234567L,Athletic Bilbao win,1.80,140.00
+BET,Soccer,Villarreal - Real Sociedad,2027-06-19T21:16:33.441110,Y2345678Z,Both teams score,2.10,100.00
+BET,Soccer,Las Palmas - Mallorca,2027-06-22T15:04:51.992001,Z3456789D,Las Palmas win,2.35,60.00
+BET,Soccer,Cadiz - Alaves,2027-06-25T18:58:07.550441,X4567890K,Draw,2.00,75.00
+BET,Soccer,Elche - Celta Vigo,2027-06-28T20:39:22.883771,Y5678901P,Over 2.5 goals,2.15,95.00
+
+BET,Soccer,Osasuna - Elche,2027-07-02T10:12:00.000001,12345678Z,Osasuna win,2.55
+BET,Soccer,Osasuna - Elche,2027-07-03T11:18:00.000001,23456789D,Osasuna win,150.00
+BET,Soccer,Osasuna - Elche,2027-07-04T12:24:00.000001,34567890V,2.55,150.00
+BET,Soccer,Osasuna - Elche,2027-07-05T13:30:00.000001,Osasuna win,2.55,150.00
+BET,Soccer,Osasuna - Elche,45678901G,Osasuna win,2.55,150.00
+BET,Soccer,2027-07-06T14:36:00.000001,56789012B,Osasuna win,2.55,150.00
+BET,Osasuna - Elche,2027-07-07T15:42:00.000001,X1234567L,Osasuna win,2.55,150.00
+BET,Soccer,Sevilla - Valencia,2025/12/28 22:25:00,Y2345678Z,Sevilla win,2.05,100.00
+BET,Basketball,Real Madrid - Barcelona,2025-11-15T20:00:00.000000,Z3456789D,Real Madrid win,1.85,120.00
+BET,Soccer,Barcelona - Real Madrid,2027-07-10T18:00:00.000000,X4567890K,Barcelona win,1.90,50.00
+BET,Tennis,Carlos Alcaraz - Pablo Carreno,2027-07-11T19:15:00.000000,Y5678901P,Alcaraz win,-1.50,80.00
+BET,Soccer,Getafe - Rayo Vallecano,2027-07-12T20:30:00.000000,12345678Z,Under 2.5 goals,2.05,-25.00
+BET,Basketball,Valencia Basket - Unicaja,2027-07-13T21:45:00.000000,23456789D,Over 160.5 points,1.90,0.00
+
+BET,Soccer,Osasuna - Elche,2027-03-04T11:42:18.345921,34567890V,Draw,3.10,40.00
+BET,Soccer,Osasuna - Elche,2027-03-04T11:42:18.345921,45678901G,Over 2.5 goals,2.05,75.00
+BET,Soccer,Osasuna - Elche,2027-03-04T11:42:18.345921,56789012B,Under 2.5 goals,1.85,90.00
+BET,Soccer,Osasuna - Elche,2027-03-04T11:42:18.345921,X1234567L,Elche win,3.80,30.00
+
+BET,Soccer,Barcelona - Real Madrid,2027-03-07T18:09:54.883214,Y2345678Z,Draw,3.40,60.00
+BET,Soccer,Barcelona - Real Madrid,2027-03-07T18:09:54.883214,Z3456789D,Over 3.5 goals,2.60,45.00
+BET,Soccer,Barcelona - Real Madrid,2027-03-07T18:09:54.883214,X4567890K,Real Madrid win,2.90,70.00
+BET,Soccer,Barcelona - Real Madrid,2027-03-07T18:09:54.883214,Y5678901P,Both teams score,1.75,110.00
+
+BET,Basketball,Real Madrid - Barcelona,2027-04-02T18:15:27.552110,12345678Z,Over 165.5 points,1.90,95.00
+BET,Basketball,Real Madrid - Barcelona,2027-04-02T18:15:27.552110,23456789D,Under 160.5 points,2.10,80.00
+BET,Basketball,Real Madrid - Barcelona,2027-04-02T18:15:27.552110,34567890V,Barcelona win,2.05,100.00
+BET,Basketball,Real Madrid - Barcelona,2027-04-02T18:15:27.552110,45678901G,Real Madrid -7.5 handicap,1.85,120.00
+
+BET,Tennis,Carlos Alcaraz - Roberto Bautista,2027-05-02T12:18:36.209841,56789012B,Over 21.5 games,2.20,65.00
+BET,Tennis,Carlos Alcaraz - Roberto Bautista,2027-05-02T12:18:36.209841,10000114J,Alcaraz 2-1 sets,3.10,40.00
+BET,Tennis,Carlos Alcaraz - Roberto Bautista,2027-05-02T12:18:36.209841,10000115Z,First set Bautista,4.20,25.00
+BET,Tennis,Carlos Alcaraz - Roberto Bautista,2027-05-02T12:18:36.209841,10000116S,Under 20.5 games,1.95,85.00
+
+BET,Soccer,Real Madrid - Valencia,2027-06-01T18:09:58.220091,10000117Q,Over 2.5 goals,1.95,140.00
+BET,Soccer,Real Madrid - Valencia,2027-06-01T18:09:58.220091,10000118W,Valencia win,5.40,20.00
+BET,Soccer,Real Madrid - Valencia,2027-06-01T18:09:58.220091,10000119A,Both teams score,2.10,90.00
+BET,Soccer,Real Madrid - Valencia,2027-06-01T18:09:58.220091,10000120G,Real Madrid -1.5 handicap,1.80,160.00
+
+BET,Basketball,Valencia Basket - Unicaja,2027-04-05T20:41:03.001248,10000121M,Under 155.5 points,1.85,110.00
+BET,Basketball,Valencia Basket - Unicaja,2027-04-05T20:41:03.001248,10000122Y,Unicaja win,2.35,70.00
+BET,Basketball,Valencia Basket - Unicaja,2027-04-05T20:41:03.001248,10000123F,Valencia -6.5 handicap,1.90,130.00
+BET,Basketball,Valencia Basket - Unicaja,2027-04-05T20:41:03.001248,10000124P,Over 162.5 points,2.05,85.00
+
+BET,Tennis,Paula Badosa - Sara Sorribes,2027-05-05T15:59:22.883440,10000125D,Badosa 2-0 sets,1.95,120.00
+BET,Tennis,Paula Badosa - Sara Sorribes,2027-05-05T15:59:22.883440,10000126X,Over 19.5 games,2.25,60.00
+BET,Tennis,Paula Badosa - Sara Sorribes,2027-05-05T15:59:22.883440,10000127B,Sorribes win,3.80,35.00
+BET,Tennis,Paula Badosa - Sara Sorribes,2027-05-05T15:59:22.883440,10000128N,First set tie-break,4.50,20.00
+
+BET,Soccer,Sevilla - Betis,2027-06-04T20:47:14.990118,10000129J,Betis win,2.85,75.00
+BET,Soccer,Sevilla - Betis,2027-06-04T20:47:14.990118,10000130Z,Over 2.5 goals,2.15,95.00
+BET,Soccer,Sevilla - Betis,2027-06-04T20:47:14.990118,10000131S,Red card shown,3.40,40.00
+BET,Soccer,Sevilla - Betis,2027-06-04T20:47:14.990118,10000132P,Draw at halftime,2.00,110.00
+
+USERPROFILE,LOCAL,12345678Z,Ana,García,ana.garcia@mail.test,612345678,Badalona,Barcelona,1.20,300.00,true,12,850.00
+USERPROFILE,LOCAL,23456789D,David,Ruiz,david.ruiz@mail.test,622334455,Terrassa,Barcelona,1.35,250.00,false,5,260.00
+USERPROFILE,LOCAL,34567890V,Laura,Martín,laura.martin@mail.test,633112233,Tarragona,Tarragona,1.10,500.00,true,20,1600.00
+USERPROFILE,LOCAL,45678901G,Sergio,López,sergio.lopez@mail.test,644556677,Girona,Girona,1.50,150.00,true,3,90.00
+USERPROFILE,LOCAL,56789012B,Marta,Sánchez,marta.sanchez@mail.test,655778899,Lleida,Lleida,1.25,400.00,false,8,640.00
+USERPROFILE,FOREIGN,X1234567L,Alex,Brown,alex.brown@mail.test,+34 671234567,Reino Unido,1.40,200.00,true,6,330.00
+USERPROFILE,FOREIGN,Y2345678Z,Noah,Wilson,noah.wilson@mail.test,+34 681112223,Estados Unidos,1.60,180.00,false,2,50.00
+USERPROFILE,FOREIGN,Z3456789D,Emma,Taylor,emma.taylor@mail.test,+34 691998877,Irlanda,1.15,350.00,true,14,980.00
+USERPROFILE,FOREIGN,X4567890K,Liam,Anderson,liam.anderson@mail.test,+34 672223344,Canadá,1.30,220.00,true,4,220.00
+USERPROFILE,FOREIGN,Y5678901P,Sofia,Lee,sofia.lee@mail.test,+34 682334455,Italia,1.05,600.00,true,25,2100.00
