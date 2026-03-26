@@ -13,10 +13,12 @@ public interface Identificable {
      * @return the identification string (DNI or NIE)
      */
 
+    String getId();
+
     /**
      * Checks if the current identifier is valid (DNI or NIE format).
      *
      * @return {@code true} if the identifier is valid, {@code false} otherwise
      */
-    
+    boolean hasValidId();
 }
