@@ -1,4 +1,5 @@
 package classes;
+import utils.Constants;
 
 /**
  * Represents a user profile composed of a User, their preferences, and their
@@ -34,6 +35,9 @@ public class UserProfile {
      * @throws NullPointerException if user is null
      */
     public UserProfile(User user) {
+        if (user == null) {
+            throw new NullPointerException(Constants.ERROR_USER_NULL);
+        }
         this.user = user;
         this.preferences = new Preferences();
         this.userStats = new UserStats();
@@ -50,13 +54,13 @@ public class UserProfile {
      */
     public UserProfile(User user, Preferences preferences, UserStats userStats) {
         if (user == null) {
-            throw new NullPointerException("L'user és null");
+            throw new NullPointerException(Constants.ERROR_USER_NULL);
         }
         if (preferences == null) {
-            throw new NullPointerException("L'user és null");
+            throw new NullPointerException(Constants.ERROR_PREFERENCES_NULL);
         }
         if (userStats == null) {
-            throw new NullPointerException("L'user és null");
+            throw new NullPointerException(Constants.ERROR_USERSTATS_NULL);
         }
         this.user = user;
         this.preferences = preferences;
@@ -69,7 +73,7 @@ public class UserProfile {
      * @return the user object
      */
     public User getUser() {
-
+        return this.user;
     }
 
     /**
@@ -78,7 +82,7 @@ public class UserProfile {
      * @return the user's ID (DNI or NIE)
      */
     public String getUserId() {
-
+        return this.user.getId();
     }
 
     /**
@@ -87,7 +91,7 @@ public class UserProfile {
      * @return the preferences object
      */
     public Preferences getPreferences() {
-
+        return this.preferences;
     }
 
     /**
@@ -96,7 +100,7 @@ public class UserProfile {
      * @return the statistics object
      */
     public UserStats getStats() {
-
+        return this.userStats;
     }
 
     /**
@@ -121,7 +125,7 @@ public class UserProfile {
      * @return true if the bettor ID matches the user's ID, false otherwise
      */
     public boolean matchesBettorId(String bettorId) {
-
+        return this.user.getId().equals(bettorId);
     }
 
     /**

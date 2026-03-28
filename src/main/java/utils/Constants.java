@@ -68,7 +68,9 @@ public class Constants {
     public static final String ERROR_EVENTLIST_DUPLICATE_NAME = "Ja existeix un desenvolupament amb el mateix nom";
     public static final String ERROR_EVENTLIST_EVENT_NOT_FOUND = "No existeix cap desenvolupament amb el nom indicat";
 
-    
+       public static final String ERROR_USER_NULL = "User no pot ser null";
+       public static final String ERROR_PREFERENCES_NULL = "Preferences no pot ser null";
+       public static final String ERROR_USERSTATS_NULL = "UserStats no pot ser null";
     
     public static final String ERROR_INVALID_INPUT = "Entrada no vàlida.";
 
